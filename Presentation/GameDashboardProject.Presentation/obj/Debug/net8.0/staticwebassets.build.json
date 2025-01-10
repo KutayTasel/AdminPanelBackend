@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Q8JJQvnwqjPOSicgnC8em/wPJ9M6AOYIlt7nWXGHcyE=",
+  "Source": "GameDashboardProject.Presentation",
+  "BasePath": "_content/GameDashboardProject.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameDashboardProject.Presentation\\wwwroot",
+      "Source": "GameDashboardProject.Presentation",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\wwwroot\\",
+      "BasePath": "_content/GameDashboardProject.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

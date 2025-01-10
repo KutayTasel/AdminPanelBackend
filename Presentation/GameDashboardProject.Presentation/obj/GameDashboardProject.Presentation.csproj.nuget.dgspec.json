@@ -1,0 +1,531 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj",
+        "projectName": "GameDashboardProject.Application",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.29.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj",
+        "projectName": "GameDashboardProject.Domain",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.28.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj",
+        "projectName": "GameDashboardProject.Mapper",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj",
+        "projectName": "GameDashboardProject.Infrastructure",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj"
+              },
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj",
+        "projectName": "GameDashboardProject.Persistance",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj",
+        "projectName": "GameDashboardProject.Presentation",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj"
+              },
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj"
+              },
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj"
+              },
+              "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj": {
+                "projectPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

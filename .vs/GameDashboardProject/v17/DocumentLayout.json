@@ -1,0 +1,1430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\validators\\buildingcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\validators\\buildingcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\presentation\\gamedashboardproject.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|solutionrelative:presentation\\gamedashboardproject.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\presentation\\gamedashboardproject.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|solutionrelative:presentation\\gamedashboardproject.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\presentation\\gamedashboardproject.presentation\\controllers\\buildingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|solutionrelative:presentation\\gamedashboardproject.presentation\\controllers\\buildingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\presentation\\gamedashboardproject.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|solutionrelative:presentation\\gamedashboardproject.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5B2F7-AD2B-4160-9A5A-F1052298A653}|GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\gamedashboardproject.automapper\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5B2F7-AD2B-4160-9A5A-F1052298A653}|GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj|solutionrelative:gamedashboardproject.automapper\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5B2F7-AD2B-4160-9A5A-F1052298A653}|GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\gamedashboardproject.automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B5B2F7-AD2B-4160-9A5A-F1052298A653}|GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj|solutionrelative:gamedashboardproject.automapper\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\unitofworks\\mysqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\unitofworks\\mysqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\unitofworks\\mongounitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\unitofworks\\mongounitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\repositories\\mysqlwriterepositoryy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\repositories\\mysqlwriterepositoryy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\repositories\\mysqlreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\repositories\\mysqlreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\repositories\\mongowriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\repositories\\mongowriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\repositories\\mongoreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\repositories\\mongoreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\mongo\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\mongo\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\context\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\context\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\context\\gamedashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\context\\gamedashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\userservice\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\userservice\\usersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\buildings\\buildingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\buildings\\buildingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\buildings\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\buildings\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\configureexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\configureexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\behaviors\\fluentvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\behaviors\\fluentvalidationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\validators\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\validators\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\login\\loginqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\login\\loginqueryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\login\\loginqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\login\\loginqueryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\login\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\getbuildings\\getbuildingsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\getbuildings\\getbuildingsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\getbuildings\\getbuildingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\getbuildings\\getbuildingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\getbuildings\\getbuildingshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\getbuildings\\getbuildingshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\get\\getbuildingtypesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\get\\getbuildingtypesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\get\\getbuildingtypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\get\\getbuildingtypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\queries\\get\\getbuildingtypeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\queries\\get\\getbuildingtypeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\command\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\command\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\command\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\command\\addbuilding\\addbuildingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\command\\addbuilding\\addbuildingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\command\\addbuilding\\addbuildingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\command\\addbuilding\\addbuildingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\features\\command\\addbuilding\\addbuildingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\features\\command\\addbuilding\\addbuildingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\exceptions\\validationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\exceptions\\validationerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\exceptions\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\exceptions\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\constants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\abstractions\\services\\imongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\abstractions\\services\\imongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\abstractions\\services\\iusersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\abstractions\\services\\iusersessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\abstractions\\services\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\abstractions\\services\\imapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\abstractions\\services\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\abstractions\\services\\imailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\presentation\\gamedashboardproject.presentation\\gamedashboardproject.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|solutionrelative:presentation\\gamedashboardproject.presentation\\gamedashboardproject.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\mongoservices\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\mongoservices\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\presentation\\gamedashboardproject.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|solutionrelative:presentation\\gamedashboardproject.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\gamedashboardproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\gamedashboardproject.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\migrations\\20250108172334_birinciadim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\migrations\\20250108172334_birinciadim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\presentation\\gamedashboardproject.presentation\\gamedashboardproject.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CA42EC91-3887-4BDA-A823-9149240B1AEA}|Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj|solutionrelative:presentation\\gamedashboardproject.presentation\\gamedashboardproject.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B5B2F7-AD2B-4160-9A5A-F1052298A653}|GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\gamedashboardproject.automapper\\gamedashboardproject.mapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28B5B2F7-AD2B-4160-9A5A-F1052298A653}|GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj|solutionrelative:gamedashboardproject.automapper\\gamedashboardproject.mapper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\gamedashboardproject.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\gamedashboardproject.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\gamedashboardproject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\gamedashboardproject.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\gamedashboardproject.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\gamedashboardproject.persistance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\repositories\\buildings\\buildingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\repositories\\buildings\\buildingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\repositories\\buildings\\buildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\repositories\\buildings\\buildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\tokenservice\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\tokenservice\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\mailservice\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\mailservice\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\identities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\identities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\identities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\identities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\base\\imongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\base\\imongoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\base\\mongobaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\base\\mongobaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\base\\datastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\base\\datastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A063B7C3-B1C9-49CE-85DE-11DB7926474F}|Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj|solutionrelative:core\\gamedashboardproject.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\unitofworks\\imysqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\unitofworks\\imysqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\unitofworks\\imongounitofworkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\unitofworks\\imongounitofworkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\repositories\\imysqlwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\repositories\\imysqlwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\repositories\\imysqlreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\repositories\\imysqlreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\repositories\\imongowriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\repositories\\imongowriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\repositories\\imongoreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\repositories\\imongoreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\repositories\\buildings\\ibuildingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\repositories\\buildings\\ibuildingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\repositories\\buildings\\ibuildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\repositories\\buildings\\ibuildingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\core\\gamedashboardproject.application\\abstractions\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49593F1-744C-4B49-9D15-8040636D87C6}|Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj|solutionrelative:core\\gamedashboardproject.application\\abstractions\\itokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\Downloads\\Animation - 1722173649049.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.infrastructure\\tokenservice\\tokensettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0BF2CA-F313-4125-97D9-8EA1289B9068}|Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj|solutionrelative:infrastructure\\gamedashboardproject.infrastructure\\tokenservice\\tokensettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|c:\\users\\hp\\desktop\\gamedashboard\\admindashboard\\gamdashboardproject\\infrastructure\\gamedashboardproject.persistance\\migrations\\20240731131252_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F41BACA3-2B67-44F0-9A37-7BED8E386502}|Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj|solutionrelative:infrastructure\\gamedashboardproject.persistance\\migrations\\20240731131252_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuildingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Controllers\\BuildingsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\GameDashboardProject.Presentation\\Controllers\\BuildingsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Controllers\\BuildingsController.cs",
+              "RelativeToolTip": "Presentation\\GameDashboardProject.Presentation\\Controllers\\BuildingsController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:35:01.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\GameDashboardProject.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\GameDashboardProject.Presentation\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwv2kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:51:27.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\GameDashboardProject.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\GameDashboardProject.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T15:51:32.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MySqlWriteRepositoryy.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlWriteRepositoryy.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlWriteRepositoryy.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlWriteRepositoryy.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlWriteRepositoryy.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:52:31.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MySqlReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlReadRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MySqlReadRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:52:06.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:48:40.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:59:23.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MySqlUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MySqlUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MySqlUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MySqlUnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MySqlUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:52:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuildingCreateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Validators\\BuildingCreateValidator.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Validators\\BuildingCreateValidator.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Validators\\BuildingCreateValidator.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Validators\\BuildingCreateValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:07:54.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\GameDashboardProject.Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\GameDashboardProject.Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:08:21.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "GameDashboardProject.AutoMapper\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\ServiceRegistration.cs",
+              "RelativeToolTip": "GameDashboardProject.AutoMapper\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:36:41.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\Mapper.cs",
+              "RelativeDocumentMoniker": "GameDashboardProject.AutoMapper\\Mapper.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\Mapper.cs",
+              "RelativeToolTip": "GameDashboardProject.AutoMapper\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:36:26.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\ServiceRegistration.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAD4v9sAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:59:42.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MongoUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MongoUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MongoUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MongoUnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\UnitofWorks\\MongoUnitOfWork.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:42:38.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MongoWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoWriteRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoWriteRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoWriteRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:35:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MongoReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoReadRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\MongoReadRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:15:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MongoSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Mongo\\MongoSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Mongo\\MongoSettings.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Mongo\\MongoSettings.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Mongo\\MongoSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:47:26.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Context\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Context\\MongoDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Context\\MongoDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Context\\MongoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:12:36.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameDashboardDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Context\\GameDashboardDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Context\\GameDashboardDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Context\\GameDashboardDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Context\\GameDashboardDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswB8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T16:04:28.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:49:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\UserService\\UserSessionService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\UserService\\UserSessionService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\UserService\\UserSessionService.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\UserService\\UserSessionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:32:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BuildingType.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Buildings\\BuildingType.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Buildings\\BuildingType.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Buildings\\BuildingType.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Buildings\\BuildingType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:55:49.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Buildings\\Building.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Buildings\\Building.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Buildings\\Building.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Buildings\\Building.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:58:28.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:18:21.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConfigureExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\ConfigureExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\ConfigureExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\ConfigureExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\ConfigureExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:19:14.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:19:55.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FluentValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Behaviors\\FluentValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Behaviors\\FluentValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Behaviors\\FluentValidationBehavior.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Behaviors\\FluentValidationBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T18:17:53.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Validators\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Validators\\RegisterValidator.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Validators\\RegisterValidator.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Validators\\RegisterValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:04:47.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Validators\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Validators\\LoginValidator.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Validators\\LoginValidator.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Validators\\LoginValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:08:07.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LoginQueryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryResponse.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryResponse.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryResponse.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:36:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginQueryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryRequest.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryRequest.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryRequest.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:15:12.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryHandler.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\Login\\LoginQueryHandler.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:15:29.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetBuildingsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsResponse.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsResponse.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsResponse.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:49:19.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetBuildingsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsQuery.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsQuery.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsQuery.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:48:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetBuildingsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsHandler.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsHandler.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsHandler.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\GetBuildings\\GetBuildingsHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:49:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetBuildingTypesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesResponse.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesResponse.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesResponse.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:20:47.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetBuildingTypesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesQuery.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesQuery.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesQuery.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:18:39.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GetBuildingTypesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesHandler.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesHandler.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesHandler.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Queries\\Get\\GetBuildingTypesHandler.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:20:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:07:20.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Command\\Register\\RegisterCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:07:02.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddBuildingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingResponse.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingResponse.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingResponse.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:44:43.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddBuildingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommandHandler.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommandHandler.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommandHandler.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:09:50.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddBuildingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommand.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommand.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommand.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Features\\Command\\AddBuilding\\AddBuildingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T16:09:37.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ValidationErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Exceptions\\ValidationErrorResponse.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Exceptions\\ValidationErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Exceptions\\ValidationErrorResponse.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Exceptions\\ValidationErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:06:39.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ValidationError.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Exceptions\\ValidationError.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Exceptions\\ValidationError.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Exceptions\\ValidationError.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Exceptions\\ValidationError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:06:47.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Constants\\Messages.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Constants\\Messages.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Constants\\Messages.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Constants\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T19:34:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IMongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMongoDbService.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMongoDbService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMongoDbService.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMongoDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:27:53.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUserSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IUserSessionService.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IUserSessionService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IUserSessionService.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IUserSessionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:30:57.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMapper.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMapper.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMapper.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:33:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IMailServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMailServices.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMailServices.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMailServices.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Abstractions\\Services\\IMailServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:20:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GameDashboardProject.Presentation.http",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.http",
+              "RelativeDocumentMoniker": "Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.http",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.http",
+              "RelativeToolTip": "Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-08T20:23:04.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\MongoServices\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\MongoServices\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\MongoServices\\MongoDbService.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\MongoServices\\MongoDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:00:43.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Presentation\\GameDashboardProject.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Presentation\\GameDashboardProject.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T19:48:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20250108172334_BirinciAdim.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20250108172334_BirinciAdim.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20250108172334_BirinciAdim.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20250108172334_BirinciAdim.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20250108172334_BirinciAdim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:23:36.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GameDashboardProject.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\GameDashboardProject.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T12:38:24.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GameDashboardProject.Mapper.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj",
+              "RelativeDocumentMoniker": "GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj",
+              "RelativeToolTip": "GameDashboardProject.AutoMapper\\GameDashboardProject.Mapper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T12:38:19.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GameDashboardProject.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj",
+              "RelativeToolTip": "Presentation\\GameDashboardProject.Presentation\\GameDashboardProject.Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T12:38:30.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GameDashboardProject.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\GameDashboardProject.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T13:41:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240731131252_mig1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20240731131252_mig1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20240731131252_mig1.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20240731131252_mig1.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Migrations\\20240731131252_mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:12:53.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GameDashboardProject.Persistance.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\GameDashboardProject.Persistance.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T12:38:22.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GameDashboardProject.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\GameDashboardProject.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T12:38:28.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BuildingTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingTypeRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingTypeRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:16:26.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BuildingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingRepository.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Persistance\\Repositories\\Buildings\\BuildingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:15:04.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenServices.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenServices.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:03:51.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\MailService\\MailService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\MailService\\MailService.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\MailService\\MailService.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\MailService\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:03:34.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Identities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Identities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Identities\\AppUser.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Identities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:57:51.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Identities\\AppRole.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Identities\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Identities\\AppRole.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Identities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:57:58.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IMongoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\IMongoEntity.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Base\\IMongoEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\IMongoEntity.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Base\\IMongoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:42:01.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MongoBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\MongoBaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Base\\MongoBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\MongoBaseEntity.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Base\\MongoBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T00:31:26.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Base\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\IBaseEntity.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Base\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:56:26.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DataStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\DataStatus.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Base\\DataStatus.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\DataStatus.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Base\\DataStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:56:43.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Domain\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Domain\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Domain\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:56:36.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IMySqlUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\UnitOfWorks\\IMySqlUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\UnitOfWorks\\IMySqlUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\UnitOfWorks\\IMySqlUnitOfWork.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\UnitOfWorks\\IMySqlUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:40:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IMongoUnitOfWorkk.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\UnitOfWorks\\IMongoUnitOfWorkk.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\UnitOfWorks\\IMongoUnitOfWorkk.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\UnitOfWorks\\IMongoUnitOfWorkk.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\UnitOfWorks\\IMongoUnitOfWorkk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:18:44.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IMySqlWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMySqlWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Repositories\\IMySqlWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMySqlWriteRepository.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Repositories\\IMySqlWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:06:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IMySqlReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMySqlReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Repositories\\IMySqlReadRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMySqlReadRepository.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Repositories\\IMySqlReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:06:42.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IMongoWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMongoWriteRepository.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Repositories\\IMongoWriteRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMongoWriteRepository.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Repositories\\IMongoWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:34:46.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IMongoReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMongoReadRepository.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Repositories\\IMongoReadRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\IMongoReadRepository.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Repositories\\IMongoReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:25:30.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IBuildingTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingTypeRepository.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingTypeRepository.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:17:00.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IBuildingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingRepository.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingRepository.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Repositories\\Buildings\\IBuildingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T10:23:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ITokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\ITokenServices.cs",
+              "RelativeDocumentMoniker": "Core\\GameDashboardProject.Application\\Abstractions\\ITokenServices.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Core\\GameDashboardProject.Application\\Abstractions\\ITokenServices.cs",
+              "RelativeToolTip": "Core\\GameDashboardProject.Application\\Abstractions\\ITokenServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:24:06.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Animation - 1722173649049.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\Animation - 1722173649049.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Animation - 1722173649049.json",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\Animation - 1722173649049.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Animation - 1722173649049.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T13:35:49.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TokenSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenSettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenSettings.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\GameDashboard\\AdminDashboard\\GamDashboardProject\\Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenSettings.cs",
+              "RelativeToolTip": "Infrastructure\\GameDashboardProject.Infrastructure\\TokenService\\TokenSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T00:04:04.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

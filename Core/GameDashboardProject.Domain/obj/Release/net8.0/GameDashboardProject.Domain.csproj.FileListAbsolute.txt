@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\bin\Release\net8.0\GameDashboardProject.Domain.deps.json
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\bin\Release\net8.0\GameDashboardProject.Domain.dll
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\bin\Release\net8.0\GameDashboardProject.Domain.pdb
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.AssemblyInfo.cs
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.sourcelink.json
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.dll
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\refint\GameDashboardProject.Domain.dll
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\GameDashboardProject.Domain.pdb
+C:\Users\Hp\Desktop\GameDashboard\AdminDashboard\GamDashboardProject\Core\GameDashboardProject.Domain\obj\Release\net8.0\ref\GameDashboardProject.Domain.dll
